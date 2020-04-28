@@ -15,7 +15,7 @@ I think I also know a little bit about Unity 2d <br />
 
 ## Conclusion:
 
-<img src="https://i.imgur.com/xQsxpdB.png" width="600"/> <br />
+![Image](https://i.imgur.com/p2SBRGv.png) <br />
 
 - <b>Play Online:</b> https://whknightz.itch.io/lazy-fly <br />
 - <b>How to play:</b> https://youtu.be/3zo0ZkQlTQU <br />
