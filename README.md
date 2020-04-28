@@ -1,23 +1,21 @@
 # Unity_Lazy_Fly
+
 Clone Game Lazy Fly
 
-I think I also know a little bit about Unity 2d
+I think I also know a little bit about Unity 2d <br />
 
-### Gameplay
+## Gameplay:
 
-Gameplay is very simple:
+- Gameplay is very simple: <br />
+- You must move the fly in to the bed <br />
+- Press Left, Right Arrow Keys or Touch Left, Right Screen to move the Fly <br />
+- The vent will blow up the fly <br />
+- Prev Level: Q <br />
+- Next Level: W <br />
 
-Collecting all the stars and moving the ball to the target
+## Conclusion:
 
-You need hover the mouse on the platforms to activate them
+<img src="https://i.imgur.com/xQsxpdB.png" width="600"/> <br />
 
-
-Thanks to Harry Kilian
-
-### Conclusion
-
-<img src="https://i.imgur.com/3kmB4dB.png" width="400"/>
-
-<b>Play Online:</b> https://whknightz.itch.io/quick-switch
-
-<b>How to play:</b> https://youtu.be/SAi36XjTVtg
+- <b>Play Online:</b> https://whknightz.itch.io/lazy-fly <br />
+- <b>How to play:</b> https://youtu.be/3zo0ZkQlTQU <br />
